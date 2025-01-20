@@ -6,4 +6,4 @@ def sum_list(list):
         sum += i
     return sum
 
-print(sum_list([1,2,3,4,5]))
+# print(sum_list([1,2,3,4,5]))
